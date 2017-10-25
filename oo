@@ -1,0 +1,21 @@
+{
+    "result": [{
+        "poll_type": "message",
+        "value": {
+            "content": [["font", {
+                "color": "000000",
+                "
+name": "微软雅黑",
+                "size": 10,
+                "style": [0, 0, 0]
+            }], "你好"],
+            "from_uin": 3265256334,
+            "msg_id": 28991,
+            "
+msg_type": 0,
+            "time": 1493042678,
+            "to_uin": 207608886
+        }
+    }],
+    "retcode": 0
+}
