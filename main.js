@@ -16,7 +16,7 @@
   var _ = require('lodash'),
   request=require('superagent');
   var url='http://www.tuling123.com/openapi/api'; 
-  var APIkey='59e806aacfea415ebf262a16754f129c';
+  var APIkey='';
   /*
    * 获取接口需要的cookie和token
    * @param isneedlogin : 是否需要登录，or本地获取
